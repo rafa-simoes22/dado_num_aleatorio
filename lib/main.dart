@@ -55,7 +55,7 @@ class _RandomNumberScreenState extends State<RandomNumberScreen> {
             SizedBox(height: 20),
             ElevatedButton(
               onPressed: _gerarNumeroAleatorio,
-              child: Text('Gerar Número'),
+              child: Text('Sortear numero'),
             ),
           ],
         ),
